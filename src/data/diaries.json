@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "date":   "2009-11-07",
+        "weather":"cloudy",
+        "visibility":    "poor",
+        "comment":"i was verry afread"
+    },
+    {
+        "id":2,
+        "date":"2022-03-11",
+        "weather":"rainy",
+        "visibility":"poor",
+        "comment":"i was verry afread"
+    },
+    {
+        "id":3,
+        "date":"2020-10-23",
+        "weather":"sunny",
+        "visibility":"good",
+        "comment":"i was verry afread"
+    },
+    {
+        "id":4,
+        "date":"2018-03-07",
+        "weather":"windy",
+        "visibility":"poor",
+        "comment":"i was verry afread"
+    }
+]
